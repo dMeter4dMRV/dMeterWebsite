@@ -1,0 +1,352 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c683dbf378766dc91bf0c0_athena-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c683dbf378766dc91bf0c0_athena-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c683dbf378766dc91bf0c0_athena.PNG
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c683dbf378766dc91bf0c0_athena.PNG
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c685186bc52e0013af3ffa_orgo-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c685186bc52e0013af3ffa_orgo-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c685186bc52e0013af3ffa_orgo-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c685186bc52e0013af3ffa_orgo-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c685186bc52e0013af3ffa_orgo.PNG
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c685186bc52e0013af3ffa_orgo.PNG
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c6861b409fa1551c762d04_ogallala.PNG
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c6861b409fa1551c762d04_ogallala.PNG
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c6867ab99d0d57ed50f002_avano-p-500.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c6867ab99d0d57ed50f002_avano-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/62c6867ab99d0d57ed50f002_avano.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\62c6867ab99d0d57ed50f002_avano.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6452966b078b77035a6e7a23_Silvi-logo-forestgreen-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6452966b078b77035a6e7a23_Silvi-logo-forestgreen-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6452966b078b77035a6e7a23_Silvi-logo-forestgreen.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6452966b078b77035a6e7a23_Silvi-logo-forestgreen.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6452977b847b4354251e3fc2_InterForm - Logo Ideation (6).png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6452977b847b4354251e3fc2_InterForm - Logo Ideation (6).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6459227e1c51a83c4016cf1c_filecoin green diagram-p-1080.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6459227e1c51a83c4016cf1c_filecoin green diagram-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6459227e1c51a83c4016cf1c_filecoin green diagram-p-1600.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6459227e1c51a83c4016cf1c_filecoin green diagram-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6459227e1c51a83c4016cf1c_filecoin green diagram-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6459227e1c51a83c4016cf1c_filecoin green diagram-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6459227e1c51a83c4016cf1c_filecoin green diagram-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6459227e1c51a83c4016cf1c_filecoin green diagram-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/6459227e1c51a83c4016cf1c_filecoin green diagram.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\6459227e1c51a83c4016cf1c_filecoin green diagram.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-500.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-800.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645923611c51a83ef216e063_FuR1JlKX0AA5nFy.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645923611c51a83ef216e063_FuR1JlKX0AA5nFy.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/64592486fa092161275ab19f_Untitled-Artwork%2B(27)-p-1080.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\64592486fa092161275ab19f_Untitled-Artwork+(27)-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/64592486fa092161275ab19f_Untitled-Artwork%2B(27)-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\64592486fa092161275ab19f_Untitled-Artwork+(27)-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/64592486fa092161275ab19f_Untitled-Artwork%2B(27)-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\64592486fa092161275ab19f_Untitled-Artwork+(27)-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/64592486fa092161275ab19f_Untitled-Artwork%2B(27).png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\64592486fa092161275ab19f_Untitled-Artwork+(27).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38%402x-p-1080.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38@2x-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38%402x-p-1600.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38@2x-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38%402x-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38@2x-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38%402x-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38@2x-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae17358dff2dc3e/645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38%402x.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae17358dff2dc3e\645927765a26104cc2392820_CleanShot 2023-05-08 at 10.46.38@2x.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6442be12152a409d6c39df18_dMeter logo square-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6442be12152a409d6c39df18_dMeter logo square-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6442be12152a409d6c39df18_dMeter logo square.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6442be12152a409d6c39df18_dMeter logo square.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6442bfe4aafde9fe59f3a9a9_dMeter Background.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6442bfe4aafde9fe59f3a9a9_dMeter Background.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c358c5f1d592fc3cff59_shubham-dhage-fcbnWSjh1U8-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c358c5f1d592fc3cff59_shubham-dhage-fcbnWSjh1U8-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c358c5f1d592fc3cff59_shubham-dhage-fcbnWSjh1U8-unsplash.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c358c5f1d592fc3cff59_shubham-dhage-fcbnWSjh1U8-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c42686ec583a72710d5d_shane-rounce-DNkoNXQti3c-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c42686ec583a72710d5d_shane-rounce-DNkoNXQti3c-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c42686ec583a72710d5d_shane-rounce-DNkoNXQti3c-unsplash.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c42686ec583a72710d5d_shane-rounce-DNkoNXQti3c-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c6e9e2edbee567de37d5_layers of data-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c6e9e2edbee567de37d5_layers of data-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c6e9e2edbee567de37d5_layers of data-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c6e9e2edbee567de37d5_layers of data-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6446c6e9e2edbee567de37d5_layers of data.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6446c6e9e2edbee567de37d5_layers of data.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64516f09d1a249624381fa97_dMeter logo large-p-1080.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64516f09d1a249624381fa97_dMeter logo large-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64516f09d1a249624381fa97_dMeter logo large-p-500.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64516f09d1a249624381fa97_dMeter logo large-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64516f09d1a249624381fa97_dMeter logo large-p-800.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64516f09d1a249624381fa97_dMeter logo large-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64516f09d1a249624381fa97_dMeter logo large.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64516f09d1a249624381fa97_dMeter logo large.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645292983d10fb987b91250c_melissa-walker-horn-76HIoI5Ni1E-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645292983d10fb987b91250c_melissa-walker-horn-76HIoI5Ni1E-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645292983d10fb987b91250c_melissa-walker-horn-76HIoI5Ni1E-unsplash.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645292983d10fb987b91250c_melissa-walker-horn-76HIoI5Ni1E-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site-p-500.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site-p-800.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298593dfd3c839dcbea_pilot site.jpeg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298593dfd3c839dcbea_pilot site.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298c8f2c40839d3e720_brooke-cagle--uHVRvDr7pg-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298c8f2c40839d3e720_brooke-cagle--uHVRvDr7pg-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529298c8f2c40839d3e720_brooke-cagle--uHVRvDr7pg-unsplash.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529298c8f2c40839d3e720_brooke-cagle--uHVRvDr7pg-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452937df56d2a47ca9e1925_np_teamwork_544354_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452937df56d2a47ca9e1925_np_teamwork_544354_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645293b2e66b320e2f55dec9_np_radio-signal-satelite_2137218_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645293b2e66b320e2f55dec9_np_radio-signal-satelite_2137218_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/64529427445631d6165e15dd_np_governance_5634553_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\64529427445631d6165e15dd_np_governance_5634553_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452944d3d10fbb9f591443a_np_distributed-network_1607601_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452944d3d10fbb9f591443a_np_distributed-network_1607601_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645294e3c576a5855ade84e3_np_growth_5679516_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645294e3c576a5855ade84e3_np_growth_5679516_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452954f17172be0cfe49359_np_regenerative_5549222_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452954f17172be0cfe49359_np_regenerative_5549222_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452957b1b592432b34ecfcc_np_data_4271043_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452957b1b592432b34ecfcc_np_data_4271043_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452959984ef3d031c42aae1_np_omni-channel_2519398_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452959984ef3d031c42aae1_np_omni-channel_2519398_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645295b2edb89319154a7fd7_np_fundraising_4383328_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645295b2edb89319154a7fd7_np_fundraising_4383328_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/645295e61ea33098b00c37e8_np_investment_5536116_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\645295e61ea33098b00c37e8_np_investment_5536116_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/6452960ebeadfb78a504092c_np_data-integration_5635179_557F95.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\6452960ebeadfb78a504092c_np_data-integration_5635179_557F95.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/646d05fb2da49ae1c183baee_joshua-rawson-harris-KRELIShKxTM-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\646d05fb2da49ae1c183baee_joshua-rawson-harris-KRELIShKxTM-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/646d05fb2da49ae1c183baee_joshua-rawson-harris-KRELIShKxTM-unsplash.jpg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\646d05fb2da49ae1c183baee_joshua-rawson-harris-KRELIShKxTM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/css/dmeter.webflow.0d5572b46.css
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\css\dmeter.webflow.0d5572b46.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/62c67e313ae173cbfaf2dc30/js/webflow.93ff534ba.js
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\62c67e313ae173cbfaf2dc30\js\webflow.93ff534ba.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://assets-global.website-files.com/img/webclip.png
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\img\webclip.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62c67e313ae173cbfaf2dc30
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://dmeter.webflow.io/
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/about
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/categories/app
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\categories\app.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/categories/graphic-design
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\categories\graphic-design.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/categories/icon
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\categories\icon.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/categories/ui
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\categories\ui.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/athena
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\athena.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/avano
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\avano.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/ecolabs
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\ecolabs.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/interform
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\interform.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/ogallala
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\ogallala.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/orgo
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\orgo.html
+Content Type: text/html
+
+Uri: https://dmeter.webflow.io/member/silvi
+File Name: C:\Downloaded Web Sites\dmeter.webflow.io\dmeter.webflow.io\member\silvi.html
+Content Type: text/html
+
